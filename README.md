@@ -1,6 +1,7 @@
 ## New, open-source Sugarizer website
 
 Suggestion are welcome!
+Live preview [boquete.github.io](http://boquete.github.io)
 
 ##License 
 
