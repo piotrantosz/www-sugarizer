@@ -154,6 +154,16 @@ a:hover, a:focus, a:active, a:visited {
 	padding-bottom: 10px;
 }
 
+.app .feature-re {
+	width: 48% !important;
+	-webkit-transition: all 0.3s;
+  	-moz-transition: all 0.3s;
+  	transition: all 0.3s;
+  	margin-right: 20px;
+  	border: 3px solid #f6f6f6;
+    border-radius: 5px;
+}
+
 .app .feature {
 	width: 31.333333%;
 	-webkit-transition: all 0.3s;
