@@ -1,9 +1,9 @@
 ## New, open-source Sugarizer website
 
 Suggestion are welcome!
-Live preview [boquete.github.io](http://boquete.github.io)
-Sugarizer website is already avaible at [sugarizer.org](http://sugarizer.org)
-Sugarizer.org repo is available here [llaske gh](http://github.com/llaske/Sugarizer_doc)
+Live preview [boquete.github.io](http://boquete.github.io). 
+Sugarizer website is already avaible at [sugarizer.org](http://sugarizer.org) 
+and repo is available here [llaske gh](http://github.com/llaske/Sugarizer_doc)
 
 ##License 
 
